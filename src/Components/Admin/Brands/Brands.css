@@ -1,0 +1,22 @@
+
+.mobile__brands{
+    height: 80vh;
+    text-align: center;
+}
+
+.mobile__new__brand{
+    width: 80%;
+    margin: auto;
+}
+
+.existing__brands__list{
+    width:100%;
+}
+
+.existing__brands__list > *{
+    text-align: center;
+}
+
+.text-align-center{
+    text-align: center;
+}
