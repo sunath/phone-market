@@ -1,0 +1,12 @@
+
+
+.product__table__image{
+    height: 4em;
+    width: 4em;
+    background-color: #f5f5f5;
+    object-fit: contain;
+}
+
+.product__tabel__head_cell{
+    cursor: pointer;
+}

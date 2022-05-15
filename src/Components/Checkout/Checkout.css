@@ -1,0 +1,35 @@
+
+
+.form__field{
+    margin: 1em 2em !important;
+}
+
+.check__out__page__content{
+    width:90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.check__out__page__details{
+    width:40%;
+}
+
+.check__out__page__summary{
+    width:40%;
+}
+
+.summary__product__item__detail{
+    margin-bottom:0;
+}
+
+.check__out__page__container{
+    display: grid;
+    height:80vh;
+    place-items: center;
+}
+
+.check__out__page__title{
+    margin-left: 1em;
+}
